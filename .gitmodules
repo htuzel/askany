@@ -1,0 +1,6 @@
+[submodule "askany-fd"]
+	path = askany-fd
+	url = https://github.com/htuzel/askany-fd
+[submodule "askany-bd"]
+	path = askany-bd
+	url = https://github.com/htuzel/askany-bd
